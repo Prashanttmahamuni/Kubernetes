@@ -1,5 +1,4 @@
-# 📘 Kubernetes Objects (Day 2)
-
+# 🌟 Kubernetes Learning – Day 2
 This section covers the **core Kubernetes objects** that form the building blocks of every cluster.
 
 ---
