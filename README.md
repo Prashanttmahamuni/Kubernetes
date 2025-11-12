@@ -1,2 +1,2 @@
 # Kubernetes
-This repository documents my journey of learning Kubernetes (K8s) from scratch..
+This repository documents my journey of learning Kubernetes (K8s) from scratch.
