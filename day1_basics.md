@@ -1,7 +1,7 @@
 # 🌟 Kubernetes Learning – Day 1
 
 ---
-
+dsafsadfasd
 ## 🚀 Why Kubernetes?
 
 Before Kubernetes, teams used Docker to run containers, but managing them at scale was difficult.  
