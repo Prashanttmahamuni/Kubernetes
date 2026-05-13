@@ -4,7 +4,7 @@
 A **Kubernetes cluster** consists of a group of machines, called **nodes**. These nodes are categorized into two types: a single **Master Node** (or control plane) and one or more **Worker Nodes**. The master node manages the cluster, while worker nodes run the containerized applications.
 
 ***
-
+saDASDASDcfzdrsf
 ### 🛠️ **Core Components & Prerequisites**
 
 Before setting up a cluster, each node must have a **container runtime** (like Docker) installed. Additionally, three key Kubernetes tools are required on every node:
