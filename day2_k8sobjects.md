@@ -1,7 +1,7 @@
 # 🌟 Kubernetes Learning – Day 2
 This section covers the **core Kubernetes objects** that form the building blocks of every cluster.
 
----
+---asdsad
 
 ## 1️⃣ Pod
 - The **smallest deployable unit** in Kubernetes.  
